@@ -14,9 +14,7 @@
 3. Set the database information in .env
    DB_DATABASE, DB_USERNAME, DB_PASSWORD
 
-4. Set API_URL in .env
-
-5. Run following commands
+4. Run following commands
 
     ```bash
     php artisan key:generate
@@ -25,7 +23,7 @@
     ```
 
 ### Auth
-
+    Set API_URL in .env
 #### Admin
 - Email: `admin@admin.com`
 - Password: `admin_password`
